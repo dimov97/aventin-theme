@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="11px" viewBox="0 0 15 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>close-envelope</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="aventin-main" transform="translate(-995.000000, -35.000000)" fill="#2D42AB" fill-rule="nonzero">
+            <g id="main">
+                <g id="header">
+                    <g id="mail" transform="translate(995.000000, 32.000000)">
+                        <g id="close-envelope" transform="translate(0.000000, 3.000000)">
+                            <path d="M7.5,7.5 L5.64428571,5.87571429 L0.338571429,10.4239286 C0.531428571,10.6028571 0.791785714,10.7142857 1.07892857,10.7142857 L13.9210714,10.7142857 C14.2071429,10.7142857 14.4664286,10.6028571 14.6582143,10.4239286 L9.35571429,5.87571429 L7.5,7.5 Z" id="Path"></path>
+                            <path d="M14.6614286,0.290357143 C14.4685714,0.110357143 14.2092857,0 13.9210714,0 L1.07892857,0 C0.792857143,0 0.533571429,0.111428571 0.340714286,0.2925 L7.5,6.42857143 L14.6614286,0.290357143 Z" id="Path"></path>
+                            <polygon id="Path" points="0 0.940714286 0 9.84214286 5.17821429 5.44178571"></polygon>
+                            <polygon id="Path" points="9.82178571 5.44178571 15 9.84214286 15 0.9375"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

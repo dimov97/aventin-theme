@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>next</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="aventin-main" transform="translate(-61.000000, -808.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="main">
+                <g id="header">
+                    <g id="lang" transform="translate(30.000000, 802.000000)">
+                        <g id="next" transform="translate(37.000000, 9.500000) rotate(90.000000) translate(-37.000000, -9.500000) translate(34.000000, 4.000000)">
+                            <path d="M5.72393515,5.27160042 L0.543809623,0.0914748954 C0.421843096,-0.0304916318 0.226236402,-0.0304916318 0.104269874,0.0914748954 C-0.0176966527,0.213441423 -0.0176966527,0.409048117 0.104269874,0.531014644 L5.0634749,5.49021967 L0.104269874,10.4494247 C-0.0176966527,10.5713912 -0.0176966527,10.7669979 0.104269874,10.8889644 C0.16410251,10.9487971 0.244646444,10.9810146 0.322889121,10.9810146 C0.401131799,10.9810146 0.481675732,10.9510983 0.541508368,10.8889644 L5.72163389,5.70883891 C5.84360042,5.58917364 5.84360042,5.39126569 5.72393515,5.27160042 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
